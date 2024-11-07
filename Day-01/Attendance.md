@@ -3,3 +3,4 @@
 | Registration No | Name   | Department    |
 | :---:   | :---: | :---: |
 | 1214214 | Santhosh NC   | CSE   |
+| 22cb012 | Chitrika B S  | CSBS   |
